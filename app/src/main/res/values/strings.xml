@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cheat Sheets</string>
+    <string name="logoName">App Logo</string>
+    <string name="slogan">Cheat Sheets</string>
+    <string-array name="titles">
+        <item>HTML</item>
+        <item>HTML5</item>
+        <item>CSS</item>
+        <item>CSS3</item>
+        <item>PHP</item>
+        <item>Javascript</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Rust</item>
+        <item>Linux/Bash Terminal Commands</item>
+        <item>Bash Shell Script</item>
+        <item>About The App</item>
+    </string-array>
+</resources>
